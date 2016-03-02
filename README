@@ -1,0 +1,6 @@
+"lab1.script" show the commands used in lab1-A.
+
+Below are the commands to compile A.cpp
+`g++ -o A A.cpp`
+
+"lab1-B.script" shows how to run the problem for question B.
